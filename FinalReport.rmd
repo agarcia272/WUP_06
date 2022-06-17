@@ -110,8 +110,11 @@ the p-value for the chi-square test was  0.0000000000001027 this is too small of
 fisherXY(mydata$cappun,mydata$race)
 ```
  
+when comparing white and black races there is a huge difference of opinions. Not only do white races have a big difference with black people they also have a different opinion with other races as well. 
 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
