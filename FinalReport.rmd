@@ -69,7 +69,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-
+From this plot the white race is more in favor then the black and other races. According to the chart white race is in favor by over 60%
 
 ### Numerical Descriptive Results
 
@@ -85,6 +85,7 @@ table2 <- xtabs(~race + cappun, data=mydata)
 rowPerc(table2)
 colPerc(table2)
 ```
+
 
 
 ## Inferential Results
@@ -103,10 +104,13 @@ fisher.test(table2)
 #fisherXY(mydata$race,mydata$cappun)
 ```
 
+the p-value for the chi-square test was  0.0000000000001027 this is too small of a number, which is why we reject the null hypothesis.
+
 ```{r}
 fisherXY(mydata$cappun,mydata$race)
 ```
  
+
 
 # Discussion and Conclusion
 
