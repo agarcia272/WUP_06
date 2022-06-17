@@ -117,4 +117,4 @@ when comparing white and black races there is a huge difference of opinions. Not
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-
+The question was if there is a difference of attitude toward capitol punishment (cappun) independent of race (race)? The answer is yes, according to the data white races think very different opinions from black and other races. The p-value was 0.0000000000001027 which is too small of a number which is why we rejected the null hypothesis. 
