@@ -1,6 +1,6 @@
 ---
-title: "GSS challange"
-author: "Alondra Garci"
+title: "GSS challenge"
+author: "Alondra Garcia"
 date: "Summer 2022"
 output: html_document
 ---
@@ -85,7 +85,7 @@ table2 <- xtabs(~race + cappun, data=mydata)
 rowPerc(table2)
 colPerc(table2)
 ```
-
+The white race is about 70 to 30 percent in favor of capital punishment. The black race is about 50 to 50 percent. The other races are a little bit higher than 50 to 50 percent.
 
 
 ## Inferential Results
